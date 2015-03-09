@@ -1,0 +1,7 @@
+{
+  "name": "jsmn2",
+  "author": "Christian Vallières",
+  "license": "GPL",
+  "version": "1.0.0",
+  "description": "Spark version of jsmn (pronounced like 'jasmine') a minimalistic JSON parser in C. This version have parent and size in tokens."
+}
